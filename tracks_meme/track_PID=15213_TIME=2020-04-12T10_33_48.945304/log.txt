@@ -1,0 +1,139 @@
+This the training log file ... 
+It tracks some statistics in the training process ... 
+Model specs are listed below : 
+WhatTrack : loss
+SizeBatch : 10
+LearnRate : 0.001
+Optimizer : adam
+PruneStream : 0
+PID : 15213
+DevIncludedSetting : False
+MultipleTrain : 1
+TrackPeriod : 1000
+FileData : data/data_meme
+FilePretrain : None
+MultipleDev : 10
+DimLSTM : 64
+Model : hawkesinhib
+CoefL2 : 0.0
+PartialPredict : False
+PredictLambda : False
+TrainRatio : 1.0
+Seed : 12345
+LossType : loglikehood
+TIME : 2020-04-12T10:33:48.945304
+MaxEpoch : 50
+Before training, the compilation time is 14.0 sec ... 
+Things that need to be tracked : 
+track_cnt dev_log_likelihood train_log_likelihood_time train_log_likelihood_type dev_log_likelihood_time dev_log_likelihood_type train_time dev_time train_log_likelihood 
+
+track_cnt is 1 
+dev_log_likelihood is -759350.8668 
+train_log_likelihood_time is -820486.9104 
+train_log_likelihood_type is -8.5156 
+dev_log_likelihood_time is -759342.3531 
+dev_log_likelihood_type is -8.5137 
+train_time is 2272.0 
+dev_time is 1083.0 
+train_log_likelihood is -820495.426 
+This is a new best model ! 
+
+track_cnt is 2 
+dev_log_likelihood is -558064.8273 
+train_log_likelihood_time is -723253.021 
+train_log_likelihood_type is -8.5137 
+dev_log_likelihood_time is -558056.3182 
+dev_log_likelihood_type is -8.5092 
+train_time is 3536.0 
+dev_time is 948.0 
+train_log_likelihood is -723261.5347 
+This is a new best model ! 
+
+track_cnt is 3 
+dev_log_likelihood is -403727.1764 
+train_log_likelihood_time is -644244.0536 
+train_log_likelihood_type is -8.5112 
+dev_log_likelihood_time is -403718.6739 
+dev_log_likelihood_type is -8.5026 
+train_time is 1861.0 
+dev_time is 949.0 
+train_log_likelihood is -644252.5648 
+This is a new best model ! 
+
+track_cnt is 4 
+dev_log_likelihood is -292091.4879 
+train_log_likelihood_time is -573663.3283 
+train_log_likelihood_type is -8.5079 
+dev_log_likelihood_time is -292082.9953 
+dev_log_likelihood_type is -8.4926 
+train_time is 1950.0 
+dev_time is 948.0 
+train_log_likelihood is -573671.8362 
+This is a new best model ! 
+
+track_cnt is 5 
+dev_log_likelihood is -218504.4926 
+train_log_likelihood_time is -503711.8486 
+train_log_likelihood_type is -8.5037 
+dev_log_likelihood_time is -218496.0142 
+dev_log_likelihood_type is -8.4784 
+train_time is 3141.0 
+dev_time is 933.0 
+train_log_likelihood is -503720.3523 
+This is a new best model ! 
+
+track_cnt is 6 
+dev_log_likelihood is -159571.9032 
+train_log_likelihood_time is -448867.4954 
+train_log_likelihood_type is -8.4981 
+dev_log_likelihood_time is -159563.4448 
+dev_log_likelihood_type is -8.4584 
+train_time is 2053.0 
+dev_time is 932.0 
+train_log_likelihood is -448875.9935 
+This is a new best model ! 
+
+track_cnt is 7 
+dev_log_likelihood is -114463.3949 
+train_log_likelihood_time is -402206.57 
+train_log_likelihood_type is -8.4914 
+dev_log_likelihood_time is -114454.961 
+dev_log_likelihood_type is -8.4339 
+train_time is 2178.0 
+dev_time is 1053.0 
+train_log_likelihood is -402215.0614 
+This is a new best model ! 
+
+track_cnt is 8 
+dev_log_likelihood is -81306.846 
+train_log_likelihood_time is -364564.5611 
+train_log_likelihood_type is -8.4829 
+dev_log_likelihood_time is -81298.4427 
+dev_log_likelihood_type is -8.4033 
+train_time is 2135.0 
+dev_time is 1053.0 
+train_log_likelihood is -364573.0439 
+This is a new best model ! 
+
+track_cnt is 9 
+dev_log_likelihood is -60267.4913 
+train_log_likelihood_time is -330544.9023 
+train_log_likelihood_type is -8.4716 
+dev_log_likelihood_time is -60259.1273 
+dev_log_likelihood_type is -8.3641 
+train_time is 3822.0 
+dev_time is 1040.0 
+train_log_likelihood is -330553.3739 
+This is a new best model ! 
+
+track_cnt is 10 
+dev_log_likelihood is -44781.5274 
+train_log_likelihood_time is -301797.4097 
+train_log_likelihood_type is -8.4591 
+dev_log_likelihood_time is -44773.2066 
+dev_log_likelihood_type is -8.3208 
+train_time is 3247.0 
+dev_time is 937.0 
+train_log_likelihood is -301805.8688 
+This is a new best model ! 
+
