@@ -1,0 +1,470 @@
+This the training log file ... 
+It tracks some statistics in the training process ... 
+Model specs are listed below : 
+WhatTrack : loss
+SizeBatch : 10
+LearnRate : 0.001
+Optimizer : adam
+PruneStream : 0
+PID : 29780
+DevIncludedSetting : False
+MultipleTrain : 1
+TrackPeriod : 1000
+FileData : data/data_hawkes
+FilePretrain : None
+MultipleDev : 10
+DimLSTM : 64
+Model : hawkesinhib
+CoefL2 : 0.0
+PartialPredict : False
+PredictLambda : False
+TrainRatio : 1.0
+Seed : 12345
+LossType : loglikehood
+TIME : 2020-04-21T20:53:10.701035
+MaxEpoch : 50
+Before training, the compilation time is 4.0 sec ... 
+Things that need to be tracked : 
+track_cnt dev_log_likelihood train_log_likelihood_time train_log_likelihood_type dev_log_likelihood_time dev_log_likelihood_type train_time dev_time train_log_likelihood 
+
+track_cnt is 1 
+dev_log_likelihood is -1.7787 
+train_log_likelihood_time is -0.316 
+train_log_likelihood_type is -1.5761 
+dev_log_likelihood_time is -0.211 
+dev_log_likelihood_type is -1.5677 
+train_time is 22.0 
+dev_time is 3.0 
+train_log_likelihood is -1.8921 
+This is a new best model ! 
+
+track_cnt is 2 
+dev_log_likelihood is -1.481 
+train_log_likelihood_time is 0.0169 
+train_log_likelihood_type is -1.5189 
+dev_log_likelihood_time is 0.0318 
+dev_log_likelihood_type is -1.5128 
+train_time is 18.0 
+dev_time is 3.0 
+train_log_likelihood is -1.502 
+This is a new best model ! 
+
+track_cnt is 3 
+dev_log_likelihood is -1.4544 
+train_log_likelihood_time is 0.0383 
+train_log_likelihood_type is -1.5044 
+dev_log_likelihood_time is 0.0462 
+dev_log_likelihood_type is -1.5006 
+train_time is 14.0 
+dev_time is 3.0 
+train_log_likelihood is -1.4662 
+This is a new best model ! 
+
+track_cnt is 4 
+dev_log_likelihood is -1.4366 
+train_log_likelihood_time is 0.0484 
+train_log_likelihood_type is -1.4948 
+dev_log_likelihood_time is 0.0548 
+dev_log_likelihood_type is -1.4914 
+train_time is 19.0 
+dev_time is 3.0 
+train_log_likelihood is -1.4464 
+This is a new best model ! 
+
+track_cnt is 5 
+dev_log_likelihood is -1.425 
+train_log_likelihood_time is 0.0551 
+train_log_likelihood_type is -1.484 
+dev_log_likelihood_time is 0.0603 
+dev_log_likelihood_type is -1.4853 
+train_time is 21.0 
+dev_time is 3.0 
+train_log_likelihood is -1.4289 
+This is a new best model ! 
+
+track_cnt is 6 
+dev_log_likelihood is -1.418 
+train_log_likelihood_time is 0.0611 
+train_log_likelihood_type is -1.4811 
+dev_log_likelihood_time is 0.0641 
+dev_log_likelihood_type is -1.4821 
+train_time is 28.0 
+dev_time is 3.0 
+train_log_likelihood is -1.42 
+This is a new best model ! 
+
+track_cnt is 7 
+dev_log_likelihood is -1.4145 
+train_log_likelihood_time is 0.0626 
+train_log_likelihood_type is -1.4795 
+dev_log_likelihood_time is 0.0662 
+dev_log_likelihood_type is -1.4808 
+train_time is 24.0 
+dev_time is 3.0 
+train_log_likelihood is -1.4169 
+This is a new best model ! 
+
+track_cnt is 8 
+dev_log_likelihood is -1.4096 
+train_log_likelihood_time is 0.0655 
+train_log_likelihood_type is -1.4785 
+dev_log_likelihood_time is 0.0704 
+dev_log_likelihood_type is -1.48 
+train_time is 17.0 
+dev_time is 3.0 
+train_log_likelihood is -1.413 
+This is a new best model ! 
+
+track_cnt is 9 
+dev_log_likelihood is -1.4066 
+train_log_likelihood_time is 0.0706 
+train_log_likelihood_type is -1.4791 
+dev_log_likelihood_time is 0.0726 
+dev_log_likelihood_type is -1.4792 
+train_time is 22.0 
+dev_time is 3.0 
+train_log_likelihood is -1.4085 
+This is a new best model ! 
+
+track_cnt is 10 
+dev_log_likelihood is -1.403 
+train_log_likelihood_time is 0.0687 
+train_log_likelihood_type is -1.4754 
+dev_log_likelihood_time is 0.0756 
+dev_log_likelihood_type is -1.4786 
+train_time is 20.0 
+dev_time is 3.0 
+train_log_likelihood is -1.4067 
+This is a new best model ! 
+
+track_cnt is 11 
+dev_log_likelihood is -1.3994 
+train_log_likelihood_time is 0.0733 
+train_log_likelihood_type is -1.4764 
+dev_log_likelihood_time is 0.0786 
+dev_log_likelihood_type is -1.478 
+train_time is 23.0 
+dev_time is 3.0 
+train_log_likelihood is -1.4031 
+This is a new best model ! 
+
+track_cnt is 12 
+dev_log_likelihood is -1.3966 
+train_log_likelihood_time is 0.0772 
+train_log_likelihood_type is -1.4758 
+dev_log_likelihood_time is 0.0809 
+dev_log_likelihood_type is -1.4775 
+train_time is 15.0 
+dev_time is 3.0 
+train_log_likelihood is -1.3986 
+This is a new best model ! 
+
+track_cnt is 13 
+dev_log_likelihood is -1.394 
+train_log_likelihood_time is 0.0804 
+train_log_likelihood_type is -1.4756 
+dev_log_likelihood_time is 0.0831 
+dev_log_likelihood_type is -1.4771 
+train_time is 22.0 
+dev_time is 3.0 
+train_log_likelihood is -1.3951 
+This is a new best model ! 
+
+track_cnt is 14 
+dev_log_likelihood is -1.3913 
+train_log_likelihood_time is 0.082 
+train_log_likelihood_type is -1.4753 
+dev_log_likelihood_time is 0.0854 
+dev_log_likelihood_type is -1.4767 
+train_time is 20.0 
+dev_time is 3.0 
+train_log_likelihood is -1.3933 
+This is a new best model ! 
+
+track_cnt is 15 
+dev_log_likelihood is -1.3902 
+train_log_likelihood_time is 0.0826 
+train_log_likelihood_type is -1.4749 
+dev_log_likelihood_time is 0.0862 
+dev_log_likelihood_type is -1.4765 
+train_time is 20.0 
+dev_time is 3.0 
+train_log_likelihood is -1.3923 
+This is a new best model ! 
+
+track_cnt is 16 
+dev_log_likelihood is -1.3885 
+train_log_likelihood_time is 0.0837 
+train_log_likelihood_type is -1.4744 
+dev_log_likelihood_time is 0.0877 
+dev_log_likelihood_type is -1.4762 
+train_time is 20.0 
+dev_time is 3.0 
+train_log_likelihood is -1.3907 
+This is a new best model ! 
+
+track_cnt is 17 
+dev_log_likelihood is -1.3865 
+train_log_likelihood_time is 0.0808 
+train_log_likelihood_type is -1.4747 
+dev_log_likelihood_time is 0.0894 
+dev_log_likelihood_type is -1.4759 
+train_time is 24.0 
+dev_time is 3.0 
+train_log_likelihood is -1.3939 
+This is a new best model ! 
+
+track_cnt is 18 
+dev_log_likelihood is -1.3853 
+train_log_likelihood_time is 0.0853 
+train_log_likelihood_type is -1.4739 
+dev_log_likelihood_time is 0.0905 
+dev_log_likelihood_type is -1.4759 
+train_time is 18.0 
+dev_time is 3.0 
+train_log_likelihood is -1.3886 
+This is a new best model ! 
+
+track_cnt is 19 
+dev_log_likelihood is -1.3842 
+train_log_likelihood_time is 0.0881 
+train_log_likelihood_type is -1.474 
+dev_log_likelihood_time is 0.0914 
+dev_log_likelihood_type is -1.4757 
+train_time is 24.0 
+dev_time is 3.0 
+train_log_likelihood is -1.3858 
+This is a new best model ! 
+
+track_cnt is 20 
+dev_log_likelihood is -1.3834 
+train_log_likelihood_time is 0.0878 
+train_log_likelihood_type is -1.4738 
+dev_log_likelihood_time is 0.0922 
+dev_log_likelihood_type is -1.4756 
+train_time is 20.0 
+dev_time is 3.0 
+train_log_likelihood is -1.386 
+This is a new best model ! 
+
+track_cnt is 21 
+dev_log_likelihood is -1.3824 
+train_log_likelihood_time is 0.0842 
+train_log_likelihood_type is -1.4739 
+dev_log_likelihood_time is 0.093 
+dev_log_likelihood_type is -1.4754 
+train_time is 16.0 
+dev_time is 3.0 
+train_log_likelihood is -1.3897 
+This is a new best model ! 
+
+track_cnt is 22 
+dev_log_likelihood is -1.3819 
+train_log_likelihood_time is 0.0907 
+train_log_likelihood_type is -1.4742 
+dev_log_likelihood_time is 0.0934 
+dev_log_likelihood_type is -1.4753 
+train_time is 25.0 
+dev_time is 3.0 
+train_log_likelihood is -1.3834 
+This is a new best model ! 
+
+track_cnt is 23 
+dev_log_likelihood is -1.3815 
+train_log_likelihood_time is 0.0916 
+train_log_likelihood_type is -1.4727 
+dev_log_likelihood_time is 0.0938 
+dev_log_likelihood_type is -1.4752 
+train_time is 26.0 
+dev_time is 3.0 
+train_log_likelihood is -1.3811 
+This is a new best model ! 
+
+track_cnt is 24 
+dev_log_likelihood is -1.3809 
+train_log_likelihood_time is 0.0917 
+train_log_likelihood_type is -1.4735 
+dev_log_likelihood_time is 0.0943 
+dev_log_likelihood_type is -1.4752 
+train_time is 17.0 
+dev_time is 3.0 
+train_log_likelihood is -1.3817 
+This is a new best model ! 
+
+track_cnt is 25 
+dev_log_likelihood is -1.3796 
+train_log_likelihood_time is 0.0935 
+train_log_likelihood_type is -1.4731 
+dev_log_likelihood_time is 0.0956 
+dev_log_likelihood_type is -1.4752 
+train_time is 17.0 
+dev_time is 3.0 
+train_log_likelihood is -1.3795 
+This is a new best model ! 
+
+track_cnt is 26 
+dev_log_likelihood is -1.3807 
+train_log_likelihood_time is 0.092 
+train_log_likelihood_type is -1.4737 
+dev_log_likelihood_time is 0.0944 
+dev_log_likelihood_type is -1.4751 
+train_time is 23.0 
+dev_time is 3.0 
+train_log_likelihood is -1.3817 
+
+track_cnt is 27 
+dev_log_likelihood is -1.3794 
+train_log_likelihood_time is 0.0921 
+train_log_likelihood_type is -1.4744 
+dev_log_likelihood_time is 0.0956 
+dev_log_likelihood_type is -1.475 
+train_time is 15.0 
+dev_time is 3.0 
+train_log_likelihood is -1.3823 
+This is a new best model ! 
+
+track_cnt is 28 
+dev_log_likelihood is -1.3806 
+train_log_likelihood_time is 0.0923 
+train_log_likelihood_type is -1.4733 
+dev_log_likelihood_time is 0.0944 
+dev_log_likelihood_type is -1.475 
+train_time is 24.0 
+dev_time is 3.0 
+train_log_likelihood is -1.381 
+
+track_cnt is 29 
+dev_log_likelihood is -1.3788 
+train_log_likelihood_time is 0.093 
+train_log_likelihood_type is -1.4733 
+dev_log_likelihood_time is 0.0962 
+dev_log_likelihood_type is -1.475 
+train_time is 18.0 
+dev_time is 3.0 
+train_log_likelihood is -1.3803 
+This is a new best model ! 
+
+track_cnt is 30 
+dev_log_likelihood is -1.3785 
+train_log_likelihood_time is 0.0953 
+train_log_likelihood_type is -1.4739 
+dev_log_likelihood_time is 0.0965 
+dev_log_likelihood_type is -1.475 
+train_time is 20.0 
+dev_time is 3.0 
+train_log_likelihood is -1.3786 
+This is a new best model ! 
+
+track_cnt is 31 
+dev_log_likelihood is -1.3789 
+train_log_likelihood_time is 0.0951 
+train_log_likelihood_type is -1.4736 
+dev_log_likelihood_time is 0.096 
+dev_log_likelihood_type is -1.4749 
+train_time is 24.0 
+dev_time is 3.0 
+train_log_likelihood is -1.3785 
+
+track_cnt is 32 
+dev_log_likelihood is -1.3782 
+train_log_likelihood_time is 0.0928 
+train_log_likelihood_type is -1.4732 
+dev_log_likelihood_time is 0.0967 
+dev_log_likelihood_type is -1.4749 
+train_time is 18.0 
+dev_time is 3.0 
+train_log_likelihood is -1.3805 
+This is a new best model ! 
+
+track_cnt is 33 
+dev_log_likelihood is -1.3784 
+train_log_likelihood_time is 0.0936 
+train_log_likelihood_type is -1.475 
+dev_log_likelihood_time is 0.0965 
+dev_log_likelihood_type is -1.4748 
+train_time is 24.0 
+dev_time is 3.0 
+train_log_likelihood is -1.3814 
+
+track_cnt is 34 
+dev_log_likelihood is -1.3784 
+train_log_likelihood_time is 0.0908 
+train_log_likelihood_type is -1.4746 
+dev_log_likelihood_time is 0.0964 
+dev_log_likelihood_type is -1.4749 
+train_time is 23.0 
+dev_time is 3.0 
+train_log_likelihood is -1.3837 
+
+track_cnt is 35 
+dev_log_likelihood is -1.379 
+train_log_likelihood_time is 0.0952 
+train_log_likelihood_type is -1.473 
+dev_log_likelihood_time is 0.0958 
+dev_log_likelihood_type is -1.4748 
+train_time is 22.0 
+dev_time is 3.0 
+train_log_likelihood is -1.3778 
+
+track_cnt is 36 
+dev_log_likelihood is -1.3778 
+train_log_likelihood_time is 0.094 
+train_log_likelihood_type is -1.4732 
+dev_log_likelihood_time is 0.097 
+dev_log_likelihood_type is -1.4748 
+train_time is 29.0 
+dev_time is 3.0 
+train_log_likelihood is -1.3792 
+This is a new best model ! 
+
+track_cnt is 37 
+dev_log_likelihood is -1.3789 
+train_log_likelihood_time is 0.0925 
+train_log_likelihood_type is -1.4745 
+dev_log_likelihood_time is 0.0959 
+dev_log_likelihood_type is -1.4748 
+train_time is 20.0 
+dev_time is 3.0 
+train_log_likelihood is -1.3819 
+
+track_cnt is 38 
+dev_log_likelihood is -1.3779 
+train_log_likelihood_time is 0.0933 
+train_log_likelihood_type is -1.4727 
+dev_log_likelihood_time is 0.0968 
+dev_log_likelihood_type is -1.4748 
+train_time is 20.0 
+dev_time is 3.0 
+train_log_likelihood is -1.3793 
+
+track_cnt is 39 
+dev_log_likelihood is -1.3785 
+train_log_likelihood_time is 0.0929 
+train_log_likelihood_type is -1.473 
+dev_log_likelihood_time is 0.0963 
+dev_log_likelihood_type is -1.4748 
+train_time is 17.0 
+dev_time is 3.0 
+train_log_likelihood is -1.3802 
+
+track_cnt is 40 
+dev_log_likelihood is -1.3782 
+train_log_likelihood_time is 0.0934 
+train_log_likelihood_type is -1.4731 
+dev_log_likelihood_time is 0.0965 
+dev_log_likelihood_type is -1.4748 
+train_time is 15.0 
+dev_time is 3.0 
+train_log_likelihood is -1.3797 
+
+The best model info is shown below : 
+dev_log_likelihood is -1.3778 
+dev_time is 3.0 
+train_log_likelihood_type is -1.4732 
+dev_log_likelihood_time is 0.097 
+dev_log_likelihood_type is -1.4748 
+train_time is 29.0 
+train_log_likelihood is -1.3792 
+track_cnt is 36 
+train_log_likelihood_time is 0.094 
+
