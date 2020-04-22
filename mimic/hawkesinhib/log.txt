@@ -1,0 +1,62 @@
+This the training log file ... 
+It tracks some statistics in the training process ... 
+Model specs are listed below : 
+WhatTrack : loss
+SizeBatch : 10
+LearnRate : 0.001
+Optimizer : adam
+PruneStream : 0
+PID : 5275
+DevIncludedSetting : False
+MultipleTrain : 1
+TrackPeriod : 1000
+FileData : data/data_mimic/fold1
+FilePretrain : None
+MultipleDev : 10
+DimLSTM : 64
+Model : hawkesinhib
+CoefL2 : 0.0
+PartialPredict : False
+PredictLambda : False
+TrainRatio : 1.0
+Seed : 12345
+LossType : loglikehood
+TIME : 2020-04-15T23:38:31.054943
+MaxEpoch : 50
+Before training, the compilation time is 2.0 sec ... 
+Things that need to be tracked : 
+track_cnt dev_log_likelihood train_log_likelihood_time train_log_likelihood_type dev_log_likelihood_time dev_log_likelihood_type train_time dev_time train_log_likelihood 
+
+track_cnt is 1 
+dev_log_likelihood is -36.6771 
+train_log_likelihood_time is -40.355 
+train_log_likelihood_type is -4.0544 
+dev_log_likelihood_time is -32.8734 
+dev_log_likelihood_type is -3.8037 
+train_time is 3.0 
+dev_time is 0.0 
+train_log_likelihood is -44.4094 
+This is a new best model ! 
+
+track_cnt is 2 
+dev_log_likelihood is -16.2334 
+train_log_likelihood_time is -19.0565 
+train_log_likelihood_type is -3.4922 
+dev_log_likelihood_time is -13.3341 
+dev_log_likelihood_type is -2.8993 
+train_time is 16.0 
+dev_time is 0.0 
+train_log_likelihood is -22.5488 
+This is a new best model ! 
+
+The best model info is shown below : 
+dev_log_likelihood is -16.2334 
+dev_time is 0.0 
+train_log_likelihood_type is -3.4922 
+dev_log_likelihood_time is -13.3341 
+dev_log_likelihood_type is -2.8993 
+train_time is 16.0 
+train_log_likelihood is -22.5488 
+track_cnt is 2 
+train_log_likelihood_time is -19.0565 
+
